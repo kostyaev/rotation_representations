@@ -1,8 +1,8 @@
 # Rotation representations
 
-![screenshot]{assets/ypr_anim_optim.gif}
+![screenshot](assets/ypr_anim_optim.gif)
 
-![screenshot]{assets/rotation_orders.jpg}
+![screenshot](assets/rotation_orders.jpg)
 
 This repository contains notebook comparing regression performance of Euler angles, quaternions and 6D represebtation.
 
