@@ -2,7 +2,7 @@
 
 ![screenshot](assets/ypr_anim_optim.gif)
 
-This repository contains IPython notebooks for Euler angles visualizations and for regression performance evaluation of Euler angles, quaternions and 6D represebtation.
+This repository contains IPython notebooks for Euler angles visualizations and for regression performance evaluation of Euler angles, quaternions and 6D represebtation. For more information please visit this [blog post](https://medium.com/@dkostyaev/better-rotation-representations-for-accurate-pose-estimation-e890a7e1317f)
 
 
 ## Requirements
