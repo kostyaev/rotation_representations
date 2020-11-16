@@ -1,6 +1,6 @@
 # Rotation representations
 
-![screenshot](assets/ypr_anim_optim.gif)
+![screenshot](assets/plot180.png)
 
 This repository contains IPython notebooks for Euler angles visualizations and for regression performance evaluation of Euler angles, quaternions and 6D representations. For more information please visit this [blog post](https://medium.com/@dkostyaev/better-rotation-representations-for-accurate-pose-estimation-e890a7e1317f)
 
