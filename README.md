@@ -1,9 +1,21 @@
 # Rotation representations
 
 This repository contains IPython notebooks for Euler angles visualizations and for regression performance evaluation of Euler angles, quaternions and 6D representations. For more information please visit this [blog post](https://medium.com/@dkostyaev/better-rotation-representations-for-accurate-pose-estimation-e890a7e1317f)
-![screenshot](assets/plot180.png)
 
-## Requirements
+
+## Performance evalution
+
+![plot](assets/plot180.png)
+
+To run `rotations_performance.ipynb` you need:
+
+1. [Tensorflow 2](https://www.tensorflow.org).
+2. [Pyquaternion](https://github.com/KieranWynn/pyquaternion)
+
+
+## Visualization and rendering
+
+![animation](assets/pypr_anim_optim.gif)
 
 To run `euler_visualization.ipynb` you need to:
 
@@ -11,9 +23,7 @@ To run `euler_visualization.ipynb` you need to:
 2. Install [simple_camera](https://github.com/kostyaev/simple_camera) library to render triangle meshes.
 3. Install [Moviepy](https://github.com/Zulko/moviepy)
 
-To run `rotations_performance.ipynb` you need:
-1. [Tensorflow 2](https://www.tensorflow.org).
-2. [Pyquaternion](https://github.com/KieranWynn/pyquaternion)
+
 
 
 
