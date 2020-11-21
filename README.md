@@ -15,7 +15,7 @@ To run `rotations_performance.ipynb` you need:
 
 ## Visualization and rendering
 
-![animation](assets/pypr_anim_optim.gif)
+![animation](assets/ypr_anim_optim.gif)
 
 To run `euler_visualization.ipynb` you need to:
 
